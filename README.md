@@ -2,7 +2,7 @@
 ## Penjelasan
 - Algoritma dan Pseudocode
  ```sh
-  	ALGORITMA
+  ALGORITMA
     1.	Start
     2.	Masukan username dan password
     3.	Jika username dan password benar akan masuk halaman berikutnya
@@ -10,7 +10,7 @@
     5.	Jika salah sebanyak 3 kali maka akan diblokir
     6.	Jika  mengisi tidak lengkap akan muncul dialog untuk melegkapi password atau username
     7.	End
-  	Pseudocode
+ 	Pseudocode
     1.	Pertama buat sintax untuk tampilan awal di index.php
     2.	Buat file login.php untuk menentukan ketika salah/benar username dan pasword
     3.	Sintak jika benar
@@ -40,7 +40,6 @@
     6.	Ketika username dan password benar makan login.php akan mengirimkan ke berhasil.php
 
  ```
- ##flowchart
 ![flow](https://github.com/YuniarSetiawan/Tugas4-alert-dan-dialog/blob/master/flowchart.png)
 ![salah](https://github.com/YuniarSetiawan/Tugas4-alert-dan-dialog/blob/master/user%20dan%20pass%20salah.PNG)
 ![belum lengkap](https://github.com/YuniarSetiawan/Tugas4-alert-dan-dialog/blob/master/belum%20lengkap.PNG)
