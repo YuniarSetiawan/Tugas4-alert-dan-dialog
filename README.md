@@ -1,6 +1,6 @@
 # Tugas4-alert-dan-dialog
 ## Penjelasan
-- Algoritma
+- Algoritma dan Pseudocode
  ```sh
   	ALGORITMA
     1.	Start
