@@ -40,6 +40,7 @@
     6.	Ketika username dan password benar makan login.php akan mengirimkan ke berhasil.php
 
  ```
+ ## flowchart
 ![flow](https://github.com/YuniarSetiawan/Tugas4-alert-dan-dialog/blob/master/flowchart.png)
 ## tampilan ketika salah
 ![salah](https://github.com/YuniarSetiawan/Tugas4-alert-dan-dialog/blob/master/user%20dan%20pass%20salah.PNG)
